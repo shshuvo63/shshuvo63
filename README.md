@@ -1,3 +1,7 @@
+<div align="center" style="width: 100%; margin: 0; padding: 0;">
+  <img src="./banner/LinkedIn Background Photo.png" alt="Chat-GPT-Image-Sep-27-2026-05-07-01-AM" border="0"' alt="shamsul-haque-shuvo" — Full Stack Web Developer" style="width: 100%; height: auto; display: block; border-radius: 0;" />
+</div>
+
 # Hi 👋, I'm Md. Shamsul Haque Shuvo
 
 ### Full-Stack Web Developer | React Developer | Data Analytics Enthusiast
